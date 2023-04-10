@@ -1,2 +1,2 @@
-"#cp_library"
+"あいうえお"
 # cp_library
